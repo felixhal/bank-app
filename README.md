@@ -11,6 +11,7 @@ Command-line based banking application built in C# with .NET
 - View A/C Statement
 - Email A/C Statement
 - Delete Account
+- Logout
 
 Account information is stored in the form of a .txt file, the app reads the txt file and than displays the infomration in the command-line interface.
 
